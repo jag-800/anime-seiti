@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583227993224",
+    "project_id": "anime-seiti-app-9cee1",
+    "storage_bucket": "anime-seiti-app-9cee1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583227993224:android:8b1318e406bdbab271033d",
+        "android_client_info": {
+          "package_name": "com.example.anime_seiti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6A9jOBA-WqVZpgXqzExjbqVBcx6Iei7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
