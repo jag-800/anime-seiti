@@ -56,6 +56,9 @@ dependencies:
   # 日時処理
   intl: ^0.19.0
 
+  # 環境変数
+  flutter_dotenv: ^5.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
